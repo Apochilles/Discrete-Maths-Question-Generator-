@@ -1,2 +1,3 @@
 # Maths-question-generator-
-A way to test your knowledge on discrete maths. 
+
+The Maths Question Generator is a Javascript application that randomises a discrete maths quiz that future students can use to revise.

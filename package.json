@@ -1,0 +1,28 @@
+{
+  "name": "Discrete-Maths-Question-Generator-",
+  "version": "1.0.0",
+  "description": "The Maths Question Generator is a Javascript application that randomises a discrete maths quiz that future students can use to revise.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuangStanley050/Discrete-Maths-Question-Generator-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuangStanley050/Discrete-Maths-Question-Generator-/issues"
+  },
+  "homepage": "https://github.com/HuangStanley050/Discrete-Maths-Question-Generator-#readme"
+}
